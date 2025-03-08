@@ -7,3 +7,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... tapescript
 -->
+
+Hello！
+My name is Minetan♡
+I live in Chiba. near TDL♡
+favorite food: NeRds.
+favorite language : python and javascript
+I'm beginner developer! 
+I wish very kind top level programmer in this world!
