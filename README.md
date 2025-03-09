@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 -->
 
 Hello！
-My name is Minetan♡
-I live in Chiba. near TDL♡
-favorite food: NeRds.
-favorite language : python and javascript
-I'm beginner developer! 
+My name is Minetan♡ \n
+I live in Chiba. near TDL♡ \n
+favorite food: NeRds. \n
+favorite language : python and javascript \n
+I'm beginner developer! \n
 I wish very kind top level programmer in this world!
