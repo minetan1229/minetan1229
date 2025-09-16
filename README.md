@@ -8,10 +8,27 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... tapescript
 -->
 
-Hello！
-My name is Minetan♡ \n
-I live in Chiba. near TDL♡ \n
-favorite food: NeRds. \n
-favorite language : python and javascript \n
-I'm beginner developer! \n
-I wish very kind top level programmer in this world!
+# 👋 Hi, I'm minetan1229!
+
+## 🚀 About Me
+I'm a passionate developer interested in automation, security, and creative bot development.  
+I love exploring new technologies and building useful tools that make life easier.
+
+## 🛠️ Skills
+- Languages: JavaScript, Python, Google Apps Script, TypeScript
+- Areas: Bot development, automation, web security, API integration
+
+## 🌱 Learning & Interests
+- Exploring new APIs and automation ideas
+- Enhancing web security
+- Building and deploying bots for real-world use
+
+## 📫 Contact
+- GitHub: [minetan1229](https://github.com/minetan1229)
+- (Add Twitter, Discord, Email etc. here if you want!)
+
+---
+
+_“Code is the best way to automate dreams.”_
+
+Feel free to check out my repositories or connect!
