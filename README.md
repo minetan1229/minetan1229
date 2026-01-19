@@ -3,18 +3,29 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... tapescript
+- 🌱 I'm currently learning ... tapescript
 -->
 
+<div align="center">
+
 # 👋 Hi, I'm minetan1229!
+
+</div>
 
 ## 🚀 About Me
 I'm a passionate developer interested in automation, security, and creative bot development.  
 I love exploring new technologies and building useful tools that make life easier.
 
 ## 🛠️ Skills
-- Languages: JavaScript, Python, Google Apps Script, TypeScript
-- Areas: Bot development, automation, web security, API integration
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Areas
+- Bot development, automation, web security, API integration
 
 ## 🌱 Learning & Interests
 - Exploring new APIs and automation ideas
@@ -23,10 +34,26 @@ I love exploring new technologies and building useful tools that make life easie
 
 ## 📫 Contact
 - GitHub: [minetan1229](https://github.com/minetan1229)
-- website:[minetanplay.com](https://minetanplay.com)
+- Website: [minetanplay.com](https://minetanplay.com)
 
 ---
 
-_“Code is the best way to automate dreams.”_
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minetan1229&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minetan1229&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+_"Code is the best way to automate dreams."_
 
 Feel free to check out my repositories or connect!
+
+</div>
