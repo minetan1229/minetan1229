@@ -34,7 +34,6 @@ I love exploring new technologies and building useful tools that make life easie
 
 ## 📫 Contact
 - GitHub: [minetan1229](https://github.com/minetan1229)
-- Website: [minetanplay.com](https://minetanplay.com)
 
 ---
 
